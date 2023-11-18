@@ -1,0 +1,14 @@
+let Places = ['Newyork', 'Italy', 'Swirtzerland', 'Spain', 'Denmark', 'France'];
+console.log('original order:', Places);
+console.log('Alphabetical order:', [Places]. sort());
+console.log('Original order still maintain:', Places);
+console.log('Reverse alphabetic order:', [Places].sort().reverse());
+console.log('orginal order maintain:', Places);
+Places.reverse();
+console.log('Reversed order :', Places);
+Places.reverse();
+console.log ('Reversed order again:',Places);
+Places.sort();
+console.log('Sorted in alphabetic order',Places);
+Places.sort().reverse();
+console.log('sort in reverse alphabetic order:', Places);

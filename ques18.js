@@ -1,0 +1,10 @@
+var mountains = ['Himalayas', 'Rockies', 'Andes', 'Denali'];
+console.log('mountains', mountains);
+var River = ['Rio grande', 'Kabul', 'North ', 'Yamuna'];
+console.log('river', River);
+var Countries = ['England', 'Japan', 'India', 'Finland'];
+console.log('countries', Countries);
+var cities = ['Paris', 'London', 'Tokyo', 'Los angelas'];
+console.log('cities', cities);
+var languages = ['Bangoli', 'Spanish', 'Chinese', "Hebrew"];
+console.log('languages', languages);
